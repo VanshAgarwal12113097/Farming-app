@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pythonTech/static/css/main.99159623.css",
+    "main.js": "/pythonTech/static/js/main.01f1cb6c.js",
+    "static/media/mainPageBodyImage1.jpg": "/pythonTech/static/media/mainPageBodyImage1.321f888ce0e490669c01.jpg",
+    "static/media/img1.png": "/pythonTech/static/media/img1.1d53a516109ea06af577.png",
+    "static/media/Header1.jpg": "/pythonTech/static/media/Header1.432a058b3a383e91820c.jpg",
+    "static/media/aboutUs1.png": "/pythonTech/static/media/aboutUs1.26528d7803ce33faaef2.png",
+    "static/media/i1.jpg": "/pythonTech/static/media/i1.9a48edfff1815f2d089e.jpg",
+    "static/media/header1.jpeg": "/pythonTech/static/media/header1.fb6bc623663a2de77e99.jpeg",
+    "static/media/fertiliser.jpg": "/pythonTech/static/media/fertiliser.6d14e2eacd0b0080de0b.jpg",
+    "static/media/i3.jpg": "/pythonTech/static/media/i3.851283ef20b6b1f43002.jpg",
+    "static/media/Header3.jpg": "/pythonTech/static/media/Header3.90bec935500630d3274d.jpg",
+    "static/media/i4.jpg": "/pythonTech/static/media/i4.4485d1480f87105b8736.jpg",
+    "static/media/crops.jpg": "/pythonTech/static/media/crops.a2f2db40944a29b13911.jpg",
+    "static/media/meals.jpg": "/pythonTech/static/media/meals.b57382a72b65c18f1d5c.jpg",
+    "static/media/i2.jpg": "/pythonTech/static/media/i2.5767dbcbba0c8b346c70.jpg",
+    "static/media/logo.png": "/pythonTech/static/media/logo.1c94b0962bd99c2a2b3e.png",
+    "static/media/dailyNews.jpg": "/pythonTech/static/media/dailyNews.36f7bbe835950474b5f4.jpg",
+    "index.html": "/pythonTech/index.html",
+    "main.99159623.css.map": "/pythonTech/static/css/main.99159623.css.map",
+    "main.01f1cb6c.js.map": "/pythonTech/static/js/main.01f1cb6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99159623.css",
+    "static/js/main.01f1cb6c.js"
+  ]
+}
