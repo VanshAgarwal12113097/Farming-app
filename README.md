@@ -1,3 +1,5 @@
+NOTE : THIS IS ONLY FRONTEND PART, BACKEND IS ALREADY DEVELOPED BUT NOT DEPLOYED ON GITHUB DUE TO SOME ISSUES ----------------------------- 
+ 
  GEEKS FOR GEEKS SOLVING FOR INDIA HACKATHON 
                                                             
  SELECTED THEME: agro-tech
