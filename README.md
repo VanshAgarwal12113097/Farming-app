@@ -4,19 +4,6 @@ NOTE : THIS IS ONLY FRONTEND PART, BACKEND IS ALREADY DEVELOPED BUT NOT DEPLOYED
                                                             
  SELECTED THEME: agro-tech
  
- Team Members:
- 1. Name: Vansh Agarwal
-    Phone: 7906548043
-    Github: VanshAgarwal12113097
- 2. Name: Soumesh Khare
-    Phone: 9450459555
-    Github: soumesh113
- 3. Name: Nayan Kumar
-    Phone: 8982713015
-    Github: techoverflow360
- 4. Name: Rohit Chopra
-    Phone: 9478288250
-    Github: RohitChopra435
     
   Tech Stack: HTML, CSS, Javascript, Nodejs, Reactjs, Python, ML, Flask, MongoDB
     
